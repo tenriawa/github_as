@@ -2,4 +2,14 @@
     <string name="app_name">My Application</string>
     <string name="login">Login</string>
     <string name="tiara">tiara</string>
+    <string name="judul">Judul</string>
+    <string name="biodata">Biodata</string>
+    <string name="nama">Nama :</string>
+    <string name="andi_tenri_awaru">Andi Tenri Awaru</string>
+    <string name="perempian">Perempian</string>
+    <string name="nama_app">Nama App</string>
+    <string name="biodata">Biodata</string>
+    <string name="nama">Nama :</string>
+    <string name="andi_tenri_awaru">Andi Tenri Awaru</string>
+    <string name="jenis_kelamin">Jenis Kelamin :</string>
 </resources>
